@@ -101,3 +101,8 @@ li a{
     color: #8a8a8a;
     text-decoration: none;
 }
+select {
+    background-color: #fafafa;
+    border: 0px;
+    color: grey;
+}
